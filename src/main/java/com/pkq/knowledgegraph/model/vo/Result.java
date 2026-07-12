@@ -1,4 +1,4 @@
-package com.pkq.demo.model.vo;
+package com.pkq.knowledgegraph.model.vo;
 
 
 import com.fasterxml.jackson.annotation.JsonInclude;

@@ -1,4 +1,4 @@
-package com.pkq.demo;
+package com.pkq.knowledgegraph;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
