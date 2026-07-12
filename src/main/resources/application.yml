@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: knowledge-graph
+  profiles:
+    active: dev   #??application-dev.yml
+  threads:
+    virtual:
+      enabled: true  #java 21 ??????
+
+
+server:
+  port: 8080  #????
